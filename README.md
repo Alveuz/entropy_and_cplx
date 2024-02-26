@@ -11,9 +11,6 @@ The DifferentialEntropy class is a Python implementation for computing the diffe
 - Compute the differential entropy of uniform distributions.
 - Perform integration to calculate the differential entropy for a given distribution type and parameters.
 
-
-Make sure to replace `[link_to_documentation]` with the actual link to the documentation, and include the appropriate license file (`LICENSE`) in your repository. You can also add more sections or customize it further based on your specific requirements.
-
 ## Citation
 
 If you use this code in your work, please cite the following references:
